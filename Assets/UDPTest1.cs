@@ -169,7 +169,6 @@ public class UDPTest1 : MonoBehaviour
         dataList.Clear();
         loop = true;
 
-
         //lock (dataQueue)
         //{
         //    while (dataQueue.Count > 0)
