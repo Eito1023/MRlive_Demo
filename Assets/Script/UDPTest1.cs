@@ -145,7 +145,7 @@ public class UDPTest1 : MonoBehaviour
                 if (loopnum == dataIndex)
                 {
                     loop = false;
-                    UnityEngine.Debug.Log("bbbbbbbbbbbbbbbb");
+                    UnityEngine.Debug.Log("Left");
                 }
                 //else if(dataQueue.Count == 0)
                 //{
